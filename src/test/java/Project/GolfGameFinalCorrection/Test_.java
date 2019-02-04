@@ -2,6 +2,7 @@ package Project.GolfGameFinalCorrection;
 
 import org.junit.Test;
 
+import Project.GolfGameFinalCorrection.utility.Distance_Calculation;
 import junit.framework.Assert;
 
 public class Test_ {

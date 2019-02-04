@@ -1,4 +1,4 @@
-package Project.GolfGameFinalCorrection;
+package Project.GolfGameFinalCorrection.utility;
 
 import java.util.Scanner;
 
